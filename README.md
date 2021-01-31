@@ -1,8 +1,8 @@
 # MinecraftServer_ModList
  For my personal forge server~
-
-# 2021-1-31更新  
-## 添加mod列表（不含优化类mod）
+------
+## 2021-1-31更新  
+### 添加mod列表（不含优化类mod）
 - 工业先锋 <https://www.mcmod.cn/class/979.html>
 - MrCrayfish的家具 <https://www.mcmod.cn/class/263.html>
 - EndRemastered <https://www.mcmod.cn/class/3369.html>
@@ -15,3 +15,4 @@
 - 应用能源2 <https://www.mcmod.cn/class/260.html>
 - 飞向未来 <https://www.mcmod.cn/class/512.html>
 - Polymorph(合成冲突消除) <https://www.mcmod.cn/class/2895.html>
+### 移除列表
